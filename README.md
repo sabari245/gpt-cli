@@ -2,7 +2,7 @@
 
 GPT CLI is a Python-based project that enables natural language command execution. With this command-line interface, you can interact with your system using plain English commands, making it easier and more intuitive to perform various tasks.
 
-[![Video Demo](/content/thumbnail.jpg)](/content/demo.mkv)
+[![Video Demo](/content/thumbnail.jpg)](/content/demo.mp4)
 
 ## Installation
 
