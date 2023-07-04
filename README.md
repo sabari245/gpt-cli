@@ -34,7 +34,7 @@ Once you have installed the dependencies and updated the `env` file, you can sta
 python main.py
 ```
 
-The CLI will start, and you can enter natural language commands to execute various actions. For example, you could say "Open the file `example.txt`," and GPT CLI will perform the corresponding action.
+The CLI will start, and you can enter natural language commands to execute various actions. For example, you could say "create a file `example.txt`," or "combined tasks like commit and push to the origin" and GPT CLI will perform the corresponding action.
 
 Feel free to explore the available commands and experiment with different tasks using natural language.
 
